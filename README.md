@@ -1,65 +1,121 @@
-# <p align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm [Deepak Sharma](https://github.com/deepak-812/)</p>
+<h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
+<h3 align="center">🚀 Data Engineer | Problem Solver | Lifelong Learner</h3>
 
-<p align="center">love to exploring new tech stacks 🚀 and building some projects to create a positive impact on people's life.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-812&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-812" /> </p>
-
-<p align="left"> <a href="https://twitter.com/deepaks46609203" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks46609203?logo=twitter&style=for-the-badge" alt="deepaks46609203" /></a> </p>
-
-## 😃 Talking about Personal Stuffs
-
-- 🔭 I’m currently working on **DSA**
-
-- 🎯 Goals: earn in dollar 💰 & learn in Computer science as much as i can learn ❄ and speak english 🚀
-
-- 🎲 And ... i play ♟ chess online
-
-- 👨🏽‍🤝‍👨🏼 I’m looking to collaborate on **FAANG Companies**
-
-- 📫 How to reach me **deepakksharma.812@gmail.com**
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="left">
-<a href="https://twitter.com/deepaks46609203" target="blank"> <kbd> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaks46609203" height="30" width="40" /> </kbd> </a>
-<a href="https://linkedin.com/in/deepcode" target="blank"> <kbd> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepcode" height="30" width="40" /> </kbd> </a>
-<a href="https://instagram.com/deepaksharma_812" target="blank"> <kbd> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepaksharma_812" height="30" width="40" /> </kbd> </a>
+<p align="center">
+  <a href="https://github.com/deepak-812">
+    <img src="https://komarev.com/ghpvc/?username=deepak-812&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://twitter.com/deepaks46609203">
+    <img src="https://img.shields.io/twitter/follow/deepaks46609203?logo=twitter&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></kbd> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></kbd> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></kbd> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></kbd> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></kbd> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></kbd> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></kbd> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </kbd> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </kbd> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <kbd> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </kbd> </a>
+---
+
+### 👨‍💻 About Me
+- 🏗️ **Data Engineer** with experience in **cloud-native data platforms (Databricks, Airflow, AWS, Azure)**  
+- 🔄 Migrated **legacy ETL systems** into **modern event-driven pipelines**  
+- ✅ Automated **Data Quality checks, CI/CD workflows, RCA reporting**  
+- 💡 Skilled in **Python, SQL, PySpark, Terraform, Docker, Snowflake**  
+- 📊 Strong background in **supply chain & pharma data domains**  
+- 🎯 Goal: Keep learning, building, and contributing to world-class data systems  
+- 📫 Reach me at: **deepakksharma.812@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/deepcode"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://twitter.com/deepaks46609203"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://leetcode.com/deepak812"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
+  <a href="https://github.com/deepak-812"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
-<h3 align="left"> LeetCode Solved Problems : </h3>
+---
 
-<p float="left">
-  <kbd><img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="418" /></kbd>
+### ⚒️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql,pyspark,linux,docker,git,terraform,aws,azure,postgres,mysql,snowflake,react,django" />
 </p>
 
-<table>
-   <tr>
-         <td><img src="https://github-readme-stats.vercel.app/api?username=deepak-812&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1263DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F14" alt="Deepak" /></td>
-         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-812&theme=dark&line_height=23" alt="Deepak" /></td>
-   </tr>
+---
+
+### 📊 GitHub Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=deepak-812&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=deepak-812&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+  </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-812&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-812&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="deepak-812" /></p>
-   </div>
+---
 
-[![Deepak's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=deepak-812&theme=xcode)](https://github.com/deepak-812/github-readme-activity-graph) 
+### 🏆 Achievements & Problem Solving
+- ✅ **340+ problems solved on LeetCode**  
+- ✅ **150+ problems solved on GeeksforGeeks**  
+- 🧑‍💻 **Problem setter** (30+ DSA problems in Java & C++)  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/deepak812?theme=dark&font=Adamina&show_icons=true&ext=contest" width="450"/>
+</p>
 
+---
 
+### 🚀 Featured Projects
+- 🏦 [**Bank Application**](https://github.com/deepak-812/PlannedPay) → Authentication system with CRUD ops, transactions & mailing system *(Python, Django, MySQL)*  
+- 🗺️ [**Path Finder**](https://pathfinderproj.000webhostapp.com/index.html) → Dijkstra’s algorithm for shortest path visualization *(JavaScript, HTML, CSS)*  
 
-## Contribution Heat map
-<kbd>
-<img src="https://raw.githubusercontent.com/deepak-812/deepak-812/output/github-contribution-grid-snake.svg" />
-</kbd>
+---
 
+### 🏅 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak-812&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
-## 👀 Visitors count
+---
 
-<img src="https://profile-counter.glitch.me/deepak-812/count.svg" />
+### 📌 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepak-812/deepak-812/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+### 💡 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak-812&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deepak-812/deepak-812/snake/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+### ⏱️ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://count.getloli.com/get/@deepak-812?theme=rule34" alt="Visitor Count" />
+</p>
