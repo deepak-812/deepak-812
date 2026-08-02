@@ -185,9 +185,25 @@ Reusable validation libraries with profiling, drift alerts, and root-cause repor
 
 <div align="center">
 
-<!--START_SECTION:quote-->
-*"Build pipelines that fail loudly, recover quietly, and never lose a record."*
-<!--END_SECTION:quote-->
+## <img src="https://emojicdn.elk.sh/%E2%9A%99%EF%B8%8F?style=twitter" width="26" height="26"> Live Pipeline Status
+
+<!--START_SECTION:pipeline-->
+
+```yaml
+pipeline: github-profile-etl
+status: SUCCESS
+last_run: 2026-08-02 06:00 UTC
+extract: GitHub API -> repos, followers, activity
+transform: aggregate + compute freshness metrics
+load: this README
+records_processed: 0
+data_freshness: < 24h
+next_run: daily @ 06:00 UTC
+```
+
+<!--END_SECTION:pipeline-->
+
+<sub>↑ not decoration — this is the real output of a daily GitHub Action Extract → Transform → Load job run against this repo.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:2E9EF7&height=120&section=footer" width="100%">
 
