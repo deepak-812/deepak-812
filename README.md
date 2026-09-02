@@ -192,7 +192,7 @@ Reusable validation libraries with profiling, drift alerts, and root-cause repor
 ```yaml
 pipeline: github-profile-etl
 status: SUCCESS
-last_run: 2026-09-01 11:28 UTC
+last_run: 2026-09-02 11:03 UTC
 extract: GitHub API -> repos, followers, activity
 transform: aggregate + compute freshness metrics
 load: this README
@@ -200,7 +200,7 @@ public_repos: 10
 followers: 1
 total_stars: 2
 languages_detected: C++, HTML, JavaScript, Python, Shell
-records_processed: 20
+records_processed: 13
 next_run: daily @ 06:00 UTC
 ```
 
